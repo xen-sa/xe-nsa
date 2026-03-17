@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+
+# Build/dependency folders (if this grows beyond static files)
+node_modules/
+dist/
+build/
+
+# Coverage and temporary files
+coverage/
+.tmp/
+tmp/

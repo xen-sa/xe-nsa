@@ -1,0 +1,37 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p{
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+div{
+  width: 80%;
+  height: 100%;
+  margin: auto;
+}
+
+.container {
+  display: flex;
+  align-items: center; /* Vertically centers the content */
+  height: 100vh; /* Example height for the container, e.g., full viewport height */
+}
