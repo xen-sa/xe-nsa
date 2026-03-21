@@ -84,4 +84,5 @@ a:hover{
   flex-direction: row;
   align-items: left;
   gap: 20px;
+  margin: 0;
 }
